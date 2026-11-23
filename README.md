@@ -128,11 +128,6 @@ Plan and understand the detailed functionality of an existing or future scenario
 <img width="1024" height="643" alt="image" src="https://github.com/user-attachments/assets/d44afab2-000e-410f-924c-807ce4833418" />
 
 
-Result:
-
-Thus, the UML diagrams—including the Use Case, Class, Sequence, Activity, Communication, and Package diagrams—for the Course Reservation and Exam Registration System were successfully designed, analyzed, and verified.
-
-
 
 
 # RESULT
